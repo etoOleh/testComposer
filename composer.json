@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fakerphp/faker": "^1.21",
+        "xvladqt/faker-lorem-flickr": "^1.0"
+
+    }
+}
